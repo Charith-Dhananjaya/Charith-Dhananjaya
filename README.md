@@ -1,10 +1,10 @@
-<img align="middle" alt="Coding" height="300" width="1200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5zNXUwcnVqbjloaGZxc3Z4M2wwMzRtNTk2amdlemo0aGxnZW5meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wv1RNuvWMjQ10bzExO/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Charith</h1>
 <h3 align="center">Driven Fullstack Developer from the Pearl of the Indian Ocean - Ceylon</h3>
 
 <p align="left"> <a href="https://twitter.com/charith_mel" target="blank"><img src="https://img.shields.io/twitter/follow/charith_mel?logo=twitter&style=for-the-badge" alt="charith_mel" /></a> </p>
-<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47h9bpjzdt5u8kc5eqkp7gl43ycistd36lynwczxww&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/TTy5YmVmhmWhq/giphy.gif?cid=ecf05e47h9bpjzdt5u8kc5eqkp7gl43ycistd36lynwczxww&ep=v1_gifs_search&rid=giphy.gif&ct=g"> -->
+<img align="right" style="Padding:20px" width="300" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 - 🌱 I’m currently learning **NextJS, MongoDB, NodeJS**
 
 - 📫 How to reach me **charith.ddm@gmail.com**
